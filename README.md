@@ -1,4 +1,6 @@
-# Excel2SQL     - provato 9 luglio 2017 - interrotto perchè troppo grezzo!
+# Excel2SQL
+
+RS - provato 9 luglio 2017 - interrotto perchè troppo grezzo!
 
 This code uses the openpyxl package for playing around with excel using Python code
 to convert complete excel workbook (all sheets) to an SQLite database
